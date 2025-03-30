@@ -2,7 +2,9 @@
 Sales data dashboard showcasing regional performance, product profitability, customer segmentation, and monthly/seasonal trends. AOV and order counts are also highlighted.
 
 ## Project Objective
-To analyze sales data and provide actionable insights for improving profitability, understanding customer behavior, and optimizing sales strategies across different regions and product categories.
+This project aims to analyze sales data to uncover key insights and drive strategic business decisions. We will examine regional and product-level profitability, customer spending patterns, and seasonal sales trends. By analyzing profit margins and customer segmentation, we can optimize sales strategies and improve customer engagement.
+
+The goal is to use these insights to enhance sales performance, drive overall business growth, and improve profitability through data-driven decision-making.
  
  ## Dataset used
  - <a href="https://github.com/inileshverma/Tableau-Sales-Data-Analysis/blob/main/Tableau_Real_World_Questions.xlsx">Dataset</a>
